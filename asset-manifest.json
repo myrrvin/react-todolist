@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-todolist/static/css/main.9c597603.css",
+    "main.js": "/react-todolist/static/js/main.a1ff8c08.js",
+    "static/media/DeleteIcon.svg": "/react-todolist/static/media/DeleteIcon.99539345a0f692b8f088.svg",
+    "static/media/FilterTime.svg": "/react-todolist/static/media/FilterTime.23e2ef7e0ed7e56e6ffc.svg",
+    "static/media/FilterDone.svg": "/react-todolist/static/media/FilterDone.7632bf1e8a0c4f6a7565.svg",
+    "static/media/ChangeName.svg": "/react-todolist/static/media/ChangeName.a371cca3ee97dbd3e244.svg",
+    "index.html": "/react-todolist/index.html",
+    "main.9c597603.css.map": "/react-todolist/static/css/main.9c597603.css.map",
+    "main.a1ff8c08.js.map": "/react-todolist/static/js/main.a1ff8c08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c597603.css",
+    "static/js/main.a1ff8c08.js"
+  ]
+}
